@@ -10,6 +10,8 @@
 ## 🛠️ Ferramentas
 
 > ◾ Sites para desenvolvedor front-end
+- [CSS Animations Generator](https://webcode.tools/generators/css/keyframe-animation) - Gerador de animações CSS e outras propriedades CSS >Recomendo<
+- [CSS Gradient](https://cssgradient.io/) - Gerador de fundos Gradientes em CSS >Recomendo<
 - [Text Pop 3D](https://textpop3d.web.app/) - Cria efeitos de texto 3D
 - [Shape Dividers](https://shapedividers.com) - Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG
 - [Couleur](https://couleur.io) - Uma ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web)
