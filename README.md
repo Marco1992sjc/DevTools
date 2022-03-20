@@ -1,12 +1,4 @@
 
-
-## 📚 Recomendação de livros
-
-- [Clean Code - Código Limpo](https://g.co/kgs/62wx9t)
-- [Refactoring - Refatoração](https://g.co/kgs/Hf2eY3)
-- [Clean Archtecture - Arquitertura Limpa](https://g.co/kgs/Hf2eY3)
-- [O programador pragmático](https://g.co/kgs/5nbqB3)
-
 ## 🛠️ Ferramentas
 
 > ◾ Sites para desenvolvedor front-end
